@@ -62,7 +62,8 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "9.2-dev"
+            "dev-master": "9.2-dev",
+            "dev-icr-test": "9.2-dev"
         }
     }
 }
